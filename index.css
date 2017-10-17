@@ -1,0 +1,112 @@
+.title-logo{
+    width:10vh;
+    margin-top: 2vh;
+    margin-bottom: 1vh;
+    margin-left: 1vh;
+}
+  /* from headroom.css */
+.headroom {
+    position: fixed;
+    top: 0;
+    -webkit-transition: top 0.15s;
+    transition: top 0.15s;
+  }
+  .headroom-hidden {
+    top: -100px;
+  }
+  /* from headroom.css */
+  
+  .navbar {
+      left: 0;
+      right: 0;
+      background: floralwhite;
+      z-index: 9; 
+      font-family: fantasy;
+  }
+  .title-class{
+    margin-top: 11vh;
+    background: linear-gradient(rgba(8, 228, 4, 0.74), rgba(6, 24, 237, 0.54)),   url(http://dodskypict.com/D/Computer-Wallpaper-On-Wallpaper-Hd-13.jpg);
+    height: 89vh; 
+    background-attachment: fixed;  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    opacity:1;
+  }
+  .title-font{
+    margin-top:25vh ;
+    color:#18FEDA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+  }
+  body h2 {
+    font-size: 5vh;
+  }
+  body div h3,body div h1{
+    font-weight: 900;
+  }
+  body div h1 {
+    font-size: 6vh;
+    margin-bottom: 6vh;
+  }
+  body div h3 {
+    font-size: 3vh;
+    line-height: 2.1ch;
+  }
+  .bio-class{
+    padding-top: 8vh;
+    padding-bottom: 5vh;
+    background: lavender;
+  }
+  div h4 {
+    line-height: 2.8ch;
+    margin-top: 6vh;
+    margin-bottom: 5vh;
+  }
+  .exp-class{
+    padding-top: 10vh;
+    color: white;
+    background-color: black; 
+    margin-right: 0%;  
+    background: linear-gradient(rgba(221, 13, 23, 0.95), rgba(0,0,0,.95)),   url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/black-smooth-stripes-and-lines-animated-background-motion-graphic-design-video-clip-ultra-hd-4k-3840x2160_syw42fhzx_thumbnail-full01.png); 
+    background-attachment: fixed;  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    opacity:0.95;
+  }
+  .examly-det{
+    color: aquamarine;
+    background: linear-gradient(rgba(0, 0, 0, 0.95) ,rgba(236, 14, 14, 0.95)) ,   url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/black-smooth-stripes-and-lines-animated-background-motion-graphic-design-video-clip-ultra-hd-4k-3840x2160_syw42fhzx_thumbnail-full01.png); 
+    background-repeat: no-repeat;
+    background-position: center center; 
+    background-attachment: fixed; 
+    background-size: cover; 
+    opacity:0.93; 
+    height: 50vh;
+    margin-right: 0;
+    color: white; 
+    text-align: center; 
+}
+.second-head{
+  margin: 8vh 0vh;
+  font-weight: 600;
+}
+.examly-content{
+  font-size: 3vh;
+}
+.goto-button{
+  background-color: #F58020; 
+  margin-top: 4vh; 
+  padding:2vh 3vh;
+  color: white;
+}
+.footer-content{
+  background-color:black;
+  padding: 2% 0%;
+  color: white;
+  margin: 0px;
+}
+.row{
+  margin-right: 0px;
+  margin-left: 0px;
+}
